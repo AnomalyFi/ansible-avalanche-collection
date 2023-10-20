@@ -32,6 +32,7 @@ avalanchego_vm_checksum_filename: "{{ vm_name }}_{{ vm_version }}_checksums.txt"
 avalanche_primary_network_id: 11111111111111111111111111111111LpoYY
 
 # List of VMs supported by the collection
+#TODO add in support for SEQ
 avalanchego_vms_list:
   subnet-evm:
     download_url: https://github.com/ava-labs/subnet-evm/releases/download
