@@ -79,7 +79,7 @@ avalanchego_vms_list:
     download_url: https://github.com/AnomalyFi/nodekit-seq/releases/download
     id: jvFWMths2qLjsZgbyEKx82PkQv2YWR4rotjQfxV55vLLogjNA
     # Used in Ash CLI
-    ash_vm_type: tokenvm
+    ash_vm_type: Custom
     aliases:
       - tokenvm
     versions_comp:
