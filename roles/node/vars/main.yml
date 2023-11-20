@@ -83,6 +83,6 @@ avalanchego_vms_list:
     aliases:
       - tokenvm
     versions_comp:
-      0.9.3:
+      0.8.2:
         ge: 1.10.9
         le: 1.10.11
